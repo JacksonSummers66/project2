@@ -1,0 +1,68 @@
+@charset "UTF-8";
+/* CSS Document */
+.mines{
+	background-image: url("images/abandoned_mine_art.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.city_streets{
+	background-image: url("images/lothric_concept_art.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.beginning{
+	background-image: url("images/the_beginning.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.perimeter{
+	background-image: url("images/undead_settlement_art_3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.ruins{
+	background-image: url("images/nightmare_frontier_art.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.hub{
+	background-image: url("images/cathedral_art.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.asylum{
+	background-image: url("images/bloodborne_asylum.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;	
+}
+.palace{
+	background-image: url("images/aldrich_art.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.catacombs{
+	background-image: url("images/deacons_concept_art.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.university{
+	background-image: url("images/byrgenwerth_art_2.jpeg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.text{
+	background-image: url("images/parchment.jpg");
+	margin-left: 5in;
+	margin-right: 5in;
+	text-align: center;
+}
+.text_alt{
+	background-image: url("images/parchment.jpg");
+	margin-left: 5in;
+	margin-right: 5in;
+	text-align: center;
+	font: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.fade_in{
+	animation: fadeIn 5s
+}
